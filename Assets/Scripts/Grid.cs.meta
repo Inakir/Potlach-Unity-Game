@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a62fb356db7d2834b87559058d1855a9
+timeCreated: 1481518338
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - scoreText: {instanceID: 0}
+  - timeText: {instanceID: 0}
+  - destoryParticle: {instanceID: 0}
+  - destroySound: {instanceID: 0}
+  - bird: {fileID: 8300000, guid: ba2d62c228e7caf46afc6aafef7da7f4, type: 3}
+  - crab: {fileID: 8300000, guid: b0e48454a7c69c64a8bbb5d133800ec3, type: 3}
+  - dolphin: {fileID: 8300000, guid: 40c3806fd65e2f64fb04798736300b88, type: 3}
+  - duck: {fileID: 8300000, guid: f31711fd98c48ca40bc61d3570ed43fc, type: 3}
+  - bear: {fileID: 8300000, guid: de4222c7adf311648890e3030ff9c28a, type: 3}
+  - hawk: {fileID: 8300000, guid: f31711fd98c48ca40bc61d3570ed43fc, type: 3}
+  - backgroundPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
